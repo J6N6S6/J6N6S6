@@ -5,7 +5,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Engenharia da Computação na Cruzeiro do Sul.
 - 💼 Trabalhando como Desenvolvedor C# na Mentoria DesenvolvendoMe.
-- 🌱 Aprendendo mais sobre .NET, ASP.NET.
+- 🌱 Aprendendo mais sobre Ruby e Java.
 
 ## Minhas Skills
 

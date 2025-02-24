@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=j6n6s6&color=006bed)
 
 ## Sobre mim
 
